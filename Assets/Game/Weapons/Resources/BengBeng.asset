@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c3081bf0b14549a0b7e2e0bbdbd72d, type: 3}
+  m_Name: BengBeng
+  m_EditorClassIdentifier: 
+  itemID: c4b1b2d7-4664-45a2-8a57-e0afbd5c282b
+  displayName: "\u8E66\u8E66"
+  description: "\u8E66\u8E66\u70B8\u5F39,\u53EF\u6295\u63B7"
+  icon: {fileID: 21300000, guid: aba0f700d91d4fc4fa8c724899ab04ab, type: 3}
+  pickup: {fileID: 6278545394979320761, guid: 0f1b5ef83865d497490ccf5bd35622e8, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  weaponPrefab: {fileID: 0}
+  weaponOverrideController: {fileID: 22100000, guid: 01c4ccf9d6320470fb5974d75677e18e, type: 2}
+  weaponRange: 8
+  weaponDamage: 8
+  attackPercentageBonus: 0
+  isRightHand: 0
+  projectile: {fileID: 6971270449663404084, guid: 4f156f60827e54aeabe8722b2c1b16e7, type: 3}

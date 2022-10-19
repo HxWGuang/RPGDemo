@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c3081bf0b14549a0b7e2e0bbdbd72d, type: 3}
+  m_Name: WuQie
+  m_EditorClassIdentifier: 
+  itemID: 82c24091-b1f3-4562-a196-392c5bcd398f
+  displayName: "\u96FE\u5207"
+  description: "\u51FA\u81EA\u96F7\u7535\u5C06\u519B\u4E4B\u624B\u7684\u5355\u624B\u5251\u6B66\u5668\uFF0C\u653B\u51FB\u529B\u9AD8"
+  icon: {fileID: 21300000, guid: d19901b0ee3c38743a7d383bd484b0b5, type: 3}
+  pickup: {fileID: 2183680311364542770, guid: 493f7349341e748c8bf4f97c928f389b, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  weaponPrefab: {fileID: 4484550564525217711, guid: c3804bb1da2514effadc73a7faa586a6, type: 3}
+  weaponOverrideController: {fileID: 22100000, guid: a8a5dfd7f56ec43febfbc9913702ca7a, type: 2}
+  weaponRange: 3
+  weaponDamage: 7
+  attackPercentageBonus: 10
+  isRightHand: 1
+  projectile: {fileID: 0}
